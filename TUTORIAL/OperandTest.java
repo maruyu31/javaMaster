@@ -5,4 +5,3 @@ public class OperandTest {
     System.out.println(number + 2);
   }
 }
-
